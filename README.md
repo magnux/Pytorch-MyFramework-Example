@@ -21,8 +21,6 @@ Test:
 python test.py
 ```
 
-For any doubt contact `albert.pumarola.peris at gmail.com`
-
 ### Monitor
 Terminal:
 ![](notes/images/terminal.png)
@@ -32,3 +30,7 @@ Tensorboard:
 tensorboard --logdir ./checkpoints
 ```
 ![](notes/images/visuals.png)
+
+
+### Contact
+For any doubt or upgrade contact `albert.pumarola.peris at gmail.com`
